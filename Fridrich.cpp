@@ -27,6 +27,7 @@ void Fridrich::setTmpColor(int ** temp_color)
 	this->temp_color = temp_color;
 }
 
+// komentarz
 
 void Fridrich::cross()
 {
